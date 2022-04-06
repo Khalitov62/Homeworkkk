@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\bin\Debug\netcoreapp3.1\AP204_INTRO.exe
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\bin\Debug\netcoreapp3.1\AP204_INTRO.deps.json
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\bin\Debug\netcoreapp3.1\AP204_INTRO.runtimeconfig.json
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\bin\Debug\netcoreapp3.1\AP204_INTRO.runtimeconfig.dev.json
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\bin\Debug\netcoreapp3.1\AP204_INTRO.dll
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\bin\Debug\netcoreapp3.1\AP204_INTRO.pdb
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\obj\Debug\netcoreapp3.1\AP204_INTRO.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\obj\Debug\netcoreapp3.1\AP204_INTRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\obj\Debug\netcoreapp3.1\AP204_INTRO.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\obj\Debug\netcoreapp3.1\AP204_INTRO.AssemblyInfo.cs
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\obj\Debug\netcoreapp3.1\AP204_INTRO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\obj\Debug\netcoreapp3.1\AP204_INTRO.dll
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\obj\Debug\netcoreapp3.1\AP204_INTRO.pdb
+C:\Users\user\source\repos\AP204_INTRO\AP204_INTRO\obj\Debug\netcoreapp3.1\AP204_INTRO.genruntimeconfig.cache

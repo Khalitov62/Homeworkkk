@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Class_homework\Class_homework\bin\Debug\netcoreapp3.1\Class_homework.exe
+C:\Users\user\source\repos\Class_homework\Class_homework\bin\Debug\netcoreapp3.1\Class_homework.deps.json
+C:\Users\user\source\repos\Class_homework\Class_homework\bin\Debug\netcoreapp3.1\Class_homework.runtimeconfig.json
+C:\Users\user\source\repos\Class_homework\Class_homework\bin\Debug\netcoreapp3.1\Class_homework.runtimeconfig.dev.json
+C:\Users\user\source\repos\Class_homework\Class_homework\bin\Debug\netcoreapp3.1\Class_homework.dll
+C:\Users\user\source\repos\Class_homework\Class_homework\bin\Debug\netcoreapp3.1\Class_homework.pdb
+C:\Users\user\source\repos\Class_homework\Class_homework\obj\Debug\netcoreapp3.1\Class_homework.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Class_homework\Class_homework\obj\Debug\netcoreapp3.1\Class_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Class_homework\Class_homework\obj\Debug\netcoreapp3.1\Class_homework.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Class_homework\Class_homework\obj\Debug\netcoreapp3.1\Class_homework.AssemblyInfo.cs
+C:\Users\user\source\repos\Class_homework\Class_homework\obj\Debug\netcoreapp3.1\Class_homework.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Class_homework\Class_homework\obj\Debug\netcoreapp3.1\Class_homework.dll
+C:\Users\user\source\repos\Class_homework\Class_homework\obj\Debug\netcoreapp3.1\Class_homework.pdb
+C:\Users\user\source\repos\Class_homework\Class_homework\obj\Debug\netcoreapp3.1\Class_homework.genruntimeconfig.cache

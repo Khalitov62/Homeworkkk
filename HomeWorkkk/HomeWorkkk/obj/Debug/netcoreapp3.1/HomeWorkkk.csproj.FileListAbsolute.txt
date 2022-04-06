@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\bin\Debug\netcoreapp3.1\HomeWorkkk.exe
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\bin\Debug\netcoreapp3.1\HomeWorkkk.deps.json
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\bin\Debug\netcoreapp3.1\HomeWorkkk.runtimeconfig.json
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\bin\Debug\netcoreapp3.1\HomeWorkkk.runtimeconfig.dev.json
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\bin\Debug\netcoreapp3.1\HomeWorkkk.dll
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\bin\Debug\netcoreapp3.1\HomeWorkkk.pdb
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\obj\Debug\netcoreapp3.1\HomeWorkkk.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\obj\Debug\netcoreapp3.1\HomeWorkkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\obj\Debug\netcoreapp3.1\HomeWorkkk.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\obj\Debug\netcoreapp3.1\HomeWorkkk.AssemblyInfo.cs
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\obj\Debug\netcoreapp3.1\HomeWorkkk.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\obj\Debug\netcoreapp3.1\HomeWorkkk.dll
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\obj\Debug\netcoreapp3.1\HomeWorkkk.pdb
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\obj\Debug\netcoreapp3.1\HomeWorkkk.genruntimeconfig.cache
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\HomeWorkkk\HomeWorkkk\obj\Debug\netcoreapp3.1\HomeWorkkk.csproj.CopyComplete
